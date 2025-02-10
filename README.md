@@ -32,7 +32,3 @@
 ```bash
 php artisan test
 ```  
-
-
----  
-[Подробнее здесь](https://gptonline.ai/ru/)  
